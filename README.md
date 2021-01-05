@@ -10,4 +10,4 @@
 I'm smarter than chandler bet he will try to "push" this into git
 
 
-chandler would pull 
+I'm almost 100% sure this will be pulled into r studio
